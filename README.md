@@ -6,7 +6,6 @@ Intro here :
 
 ## Contributers
 
-
 ## Diagrams of the app
 
 ## How to install this student overflow app
